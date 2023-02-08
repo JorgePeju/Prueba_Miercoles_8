@@ -27,7 +27,7 @@ for (let i = 0; i < palabra2.length; i++) {
     
 }
 
-alert("Tu número es " + resultado2)
+alert("El número de letras es " + resultado2)
 
 }
 
